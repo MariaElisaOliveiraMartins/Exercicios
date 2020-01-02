@@ -19,7 +19,7 @@ def sequencia_fibonacci (inic,fim):
         prox = ant + aux
 
 
-sequencia_fibonacci(6,150)
+sequencia_fibonacci(8,150)
 
 
 
