@@ -1,6 +1,7 @@
 """
 
-    Esse programa efetua o merge de duas listas de números gerando uma única sequencia.
+    Esse programa efetua o merge de duas listas de números
+    gerando uma única sequencia numérica.
 
 """
 
