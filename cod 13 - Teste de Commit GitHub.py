@@ -4,7 +4,7 @@ def func_teste_commit (param):
 
     return('===>', len(param), '<===')
 
-var_teste = func_teste_commit('abcdefghijklm')
+var_teste = func_teste_commit('abcdefghijklmnop')
 print('\n',var_teste)
 
 var_teste = func_teste_commit('hijklmnopqrstuvxz')
